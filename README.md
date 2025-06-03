@@ -73,8 +73,8 @@ Actual G+P        33      0             22
 
 ```bash
 # 1. clone the repo
-$ git clone <your‑repo‑url>
-$ cd data‑quality‑ml
+$ git clone https://github.com/luminolous/data-quality-classification.git
+$ cd data‑quality‑classification
 
 # 2. create & activate environment
 $ python -m venv .env

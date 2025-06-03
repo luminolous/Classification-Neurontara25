@@ -97,12 +97,6 @@ Python ≥ 3.10 | Core libraries: **pandas**, **numpy**, **scikit‑learn
 * **Explainability** with SHAP to trace feature contributions.
 * Deploy as a **FastAPI** micro‑service with a CI/CD test suite.
 
-## 8. Author
-
-| Name                | Role                                          | Contact                                               |
-| ------------------- | --------------------------------------------- | ----------------------------------------------------- |
-| *Akbar ‘Fayazi’ R.* | Data Scientist · Student @ AI Engineering ITS | [youremail@example.com](mailto:youremail@example.com) |
-
 ---
 
 *Last updated : 3 June 2025*

@@ -90,13 +90,6 @@ $ jupyter lab  # or jupyter notebook
 
 Python ≥ 3.10 | Core libraries: **pandas**, **numpy**, **scikit‑learn 1.5+**, **xgboost 2.0+**, **seaborn**, **matplotlib**, **missingno**.
 
-## 7. Future Work
-
-* **Hyper‑parameter optimisation** with Optuna/Bayesian search.
-* Benchmark **LightGBM**, **CatBoost**, and **TabNet** for skewed‑categorical robustness.
-* **Explainability** with SHAP to trace feature contributions.
-* Deploy as a **FastAPI** micro‑service with a CI/CD test suite.
-
 ---
 
 *Last updated : 3 June 2025*
